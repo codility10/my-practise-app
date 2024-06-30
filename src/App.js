@@ -1,10 +1,9 @@
-import './App.css';
+import "./App.css";
 function App() {
   return (
-   <h1>
-    Hello I am Muhammad Amir
-
-   </h1>
+    <div className="">
+      <h1 className="text-6xl font-bold">Hello, Tailwind CSS!</h1>
+    </div>
   );
 }
 
